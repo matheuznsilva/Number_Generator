@@ -3,7 +3,7 @@
 ```
 +-----------------------------------------------------+
 |                                                     |
-| ------------------ FILE ALGORITHM ----------------- |
+| ----------- NUMBER GENERATOR ALGORITHM ------------ |
 |                                                     |
 | AUTHOR: Matheus N. Silva                            |
 | OS.: Ubuntu 20.04 LTS                               |
@@ -19,7 +19,7 @@
 |                                                     |
 | To use the application write the following commands |
 | at the terminal:                                    |
-| $gcc main.c generator.c -o main                      |
+| $gcc main.c generator.c -o main                     |
 | $./main SIZE_VECTOR                                 |
 |                                                     |
 | If you want to use only the library, you will need  |
